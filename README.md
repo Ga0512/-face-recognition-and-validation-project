@@ -1,2 +1,3 @@
-# projeto de reconhecimento e validação facial
- Esse projeto reconhece o roste de uma pessoa e valida com base  numa base de dados de imagens, caso o rosto seja diferente, ele tira um print e salva a imagamen como "desconhecido"
+#face recognition and validation project
+
+This project recognizes a person's face and validates it based on a database of images, if the face is different, it takes a print and saves the image as "unknown"
